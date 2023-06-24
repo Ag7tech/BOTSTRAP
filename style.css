@@ -1,0 +1,60 @@
+.custom-bg{
+    background-color: #E74B4B;
+}
+.bg-color-2{
+    background-color: rgb(26, 24, 24) !important;
+}
+.custom-btn{
+    background-color: #C5018E !important;
+    color: white !important;
+    transition: .4s ease !important;
+    border: none !important;
+    border-radius: 50px !important;
+}
+.custom-btn:hover{
+    background-color: #5c1616 !important;
+    color: white !important;
+}
+.custom-txt-colo{
+    color:  #C5018E !important;
+}
+.custom-bg-card{
+    min-height: 300px;
+    background: rgb(22, 21, 21);
+    border-radius: 40px;
+    box-shadow: 1px 1px 2px #C5018E;
+}
+.card-bg{
+    background: none !important;
+}
+.bg-img{
+    position: absolute;
+    float: left;
+    margin-top: 15px;
+    margin-left: -240px;
+}
+.view-img{
+    width: 20%;
+    height: 250px;
+    background-image: url(./images/code2.jpeg);
+    /* background: linear-gradient(rgb(241, 235, 235) 50%, rgb(58, 56, 56) 50%); */
+    background-size: cover;
+    color: #C5018E;
+    transition: .4s ease;  
+    opacity: 0.5;
+}
+.view-img:hover{
+    transform: translate(-5px, -10px);
+}
+.text-pad{
+    padding-top: 170px;
+    color: #C5018E !important;
+}
+.our{
+    background-color: rgb(22, 21, 21);
+}
+.fafa{
+    padding: 8px ;
+   
+}
+
